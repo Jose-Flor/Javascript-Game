@@ -1,4 +1,4 @@
-Fully functional video game built through Javascript for fucntionality and some HTML for structure
+Fully functional video game built with Javascript for  movement fucntionality and some HTML for structure
 
 Test out the game from the link!
 [ajavascriptfightinggamejose.netlify.app](https://ajavascriptfightinggamejose.netlify.app)
